@@ -1,0 +1,7 @@
+google-cloud-aiplatform>=1.7.0
+kfp>=1.8.9
+google-cloud-pipeline-components>=0.2.0
+docker==7.1.0
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.5.2

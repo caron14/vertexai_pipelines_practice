@@ -1,0 +1,1 @@
+/Users/sho/git-portfolio/vertexai_pipelines_practice/requirements.txt
